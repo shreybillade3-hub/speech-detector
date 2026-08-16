@@ -3,7 +3,7 @@
 NodeJS library providing VAD (voice activity detection) or more specifically speech
 activity detection. This library processes a raw stream of PCM audio data and
 emits a stream of PCM audio data segements that contain speech. This library leverages
-the `Silero` model for speech detection along with the ONNX framework.
+the `Silero` model for it speech detection along with the ONNX framework.
 
 ## Install
 
