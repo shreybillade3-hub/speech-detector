@@ -37,6 +37,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "onnxruntime-web": "^1.16.1"
+    "onnxruntime-web": "^1.16.1",
+    "speech-detector": "^1.0.0"
   }
 }
